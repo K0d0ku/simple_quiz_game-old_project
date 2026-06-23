@@ -1,0 +1,160 @@
+# This file is used to specify intentionally untracked files that Git should ignore.
+# See https://help.github.com/articles/ignoring-files for more about ignoring files.
+
+# ===========================
+# Sensitive & Local Files
+# ===========================
+# User-specific settings
+local.settings.json
+secrets.json
+*.key
+*.pem
+credentials.json
+auth_token.txt
+
+# ===========================
+# Unity Specific
+# ===========================
+# Never ignore asset metadata
+!/[Aa]ssets/**/.gitkeep
+
+# Ignore Unity Library, Logs, Builds, and other temporary directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Dd]istributions/
+
+# ===========================
+# IDEs and Editors
+# ===========================
+# Visual Studio
+.vs/
+.vscode/
+*.csproj.user
+*.sln.DotSettings
+*.VC.db
+*.VC.VC.opendb
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.sln.iml
+*.kpf
+
+# MonoDevelop / Xamarin Studio
+.monodevelop/
+user.prefs
+
+# Visual Studio Code
+settings.json
+launch.json
+tasks.json
+
+# ===========================
+# Operating System Files
+# ===========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.Trash-*
+
+# ===========================
+# Third-party Libraries & Packages
+# ===========================
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# npm (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ===========================
+# Build Artifacts
+# ===========================
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.so
+*.dylib
+*.a
+*.la
+*.lai
+*.lo
+*.o
+*.obj
+
+# ===========================
+# Backup and Temporary Files
+# ===========================
+*.bak
+*.backup
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+*.swn
+*.orig
+
+# ===========================
+# Documentation & Media (Optional - Keep if needed)
+# ===========================
+# Uncomment the next lines if you want to exclude large media files
+# *.mp4
+# *.mov
+# *.avi
+# *.psd
+# *.ai
+# *.zip
+# *.rar
+
+# ===========================
+# Python (if applicable)
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ===========================
+# Environment Files
+# ===========================
+.env
+.env.local
+.env.*.local
+
+# ===========================
+# Log Files
+# ===========================
+*.log
+crash-*
+
+# ===========================
+# Miscellaneous
+# ===========================
+.DS_Store?
+*.class
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace

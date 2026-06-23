@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main menu/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/html levels/html1/level-1 1,1.unity
+    guid: cd46ef664b18c194a8b8465326b1ce9f
+  - enabled: 1
+    path: Assets/Scenes/html levels/html2/level-1 1,1 1.unity
+    guid: 7f67f70277ceb0342baa0b4f6651a4dd
+  - enabled: 1
+    path: Assets/Scenes/html levels/html3/level-1 1,1 2.unity
+    guid: 14e6ccf582e7d0f45bef055adc7ef8b3
+  - enabled: 1
+    path: Assets/Scenes/html levels/html4/level-1 1,1 3.unity
+    guid: ed26f4fa0a3db224a9f8c1e0ef3dc072
+  - enabled: 1
+    path: Assets/Scenes/html levels/html5/level-1 1,1 4.unity
+    guid: c6abe87748532794cb568fdf98b24be0
+  - enabled: 1
+    path: Assets/Scenes/html levels/html6/level-1 1,1 5.unity
+    guid: b347513b6debfd642898be34ed0b2176
+  - enabled: 1
+    path: Assets/Scenes/html levels/html7/level-1 1,1 6.unity
+    guid: e7b807cf55cc9eb4ea4c40eb15c5e8bb
+  - enabled: 1
+    path: Assets/Scenes/css levels/css1/level-1 1,1 7.unity
+    guid: 8c8bad3417d3b654f83177151227d2c5
+  - enabled: 1
+    path: Assets/Scenes/css levels/css2/level-1 1,1 8.unity
+    guid: 049e2edd3aaffdd4ba20516c913f35d6
+  - enabled: 1
+    path: Assets/Scenes/css levels/css3/level-1 1,1 9.unity
+    guid: 033813215b8526348aaaac29c40d8722
+  - enabled: 1
+    path: Assets/Scenes/javascript levels/js1/level-1 1,1 10.unity
+    guid: 42ae4f2a51b3976428bd62fa42215bda
+  - enabled: 1
+    path: Assets/Scenes/javascript levels/js2/level-1 1,1 11.unity
+    guid: a11db9320910f1a47b4e487b02f141d6
+  - enabled: 1
+    path: Assets/Scenes/javascript levels/js3/level-1 1,1 12.unity
+    guid: 4c7925674e4dd9f4f8230e45cc082998
+  - enabled: 1
+    path: Assets/Scenes/javascript levels/js4/level-1 1,1 13.unity
+    guid: bd8d38060dbe56b4082c76b3aff6c507
+  - enabled: 1
+    path: Assets/Scenes/javascript levels/js5/level-1 1,1 14.unity
+    guid: 6469ce4f3a64b044e9da766bfcb1ca6d
+  - enabled: 1
+    path: Assets/Scenes/javascript levels/js6/level-1 1,1 15.unity
+    guid: 8408cb20021c94e489f20314b6fff9e0
+  - enabled: 1
+    path: Assets/Scenes/php levels/php1/level-1 1,1 16.unity
+    guid: 1e3e988951658624ba6380f26a73bc16
+  - enabled: 1
+    path: Assets/Scenes/php levels/php2/level-1 1,1 17.unity
+    guid: 35bc70fea6943ef40b87bd68bec90fce
+  - enabled: 1
+    path: Assets/Scenes/php levels/php3/level-1 1,1 18.unity
+    guid: 6af25fdd8cc0bc944acd87ce7bbb78d5
+  - enabled: 1
+    path: Assets/Scenes/php levels/php4/level-1 1,1 19.unity
+    guid: 945552df846f6954d98491f845711bd6
+  m_configObjects: {}
